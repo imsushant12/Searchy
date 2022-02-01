@@ -1,7 +1,16 @@
-# Searchy - the Search Engine
-It is basically a search engine build using Wikipedia API.
+## 🔍 SEARCHY
 
-## Languages and Frameworks Used:
+<p align="center">
+  <img src="icon.png" />
+</p>
+
+### [Try out SEARCHY?](https://imsushant12.github.io/Searchy/) :  A search engine powered by the Wikipedia API.
+
+### Tech Stack used 👨‍💻
 - HTML
-- SCSS
+- CSS
+- SASS
 - JavaScript
+
+### API used
+- Wikipedia
